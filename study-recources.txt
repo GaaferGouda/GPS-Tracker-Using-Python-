@@ -1,0 +1,3 @@
+Resources: https://space.stackexchange.com/questions/56106/track-a-satellite-using-python
+Python NASA Project: Using APIs to Track the International Space Station (ISS):
+https://youtu.be/5UWeOfdESZE?si=exWOGasJtS4LHkra
