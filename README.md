@@ -36,7 +36,8 @@ pip install requests folium selenium
 
 ---
 
-##  Example Output
+## Example Map Output
+![GPS Tracker Map](GPS_Maps/GPS_Maps.png)
 
 ```
 --------------- GPS Tracker Using Python ---------------
